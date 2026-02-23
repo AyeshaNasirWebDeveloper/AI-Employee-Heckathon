@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Google OAuth
+credentials.json
+token.json
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
