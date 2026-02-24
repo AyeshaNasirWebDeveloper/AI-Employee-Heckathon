@@ -11,10 +11,14 @@
             "id": "9c35bacd5d23924f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ea0f570cdd8d50c3",
@@ -177,21 +181,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "38f49c97861f9385",
+  "active": "9c35bacd5d23924f",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "2026-02-23.md",
+    "Needs_Action/Bronze Tier Completed.txt",
+    "Inbox/Bronze Tier Completed.txt",
+    "New folder",
+    "uv.lock",
+    "pyproject.toml",
+    "main.py",
+    "()",
     "Dashboard.md",
     "Company_Handbook.md",
+    "README.md",
+    "Untitled.canvas",
+    "2026-02-23.md",
     "filesystem_watcher.py",
     "Rejected",
     "Approved",
     "Pending_Approval",
-    "Logs",
-    "Done",
-    "Plans",
-    "Needs_Action",
-    "Inbox",
     "Welcome.md"
   ]
 }
