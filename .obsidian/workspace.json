@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "cc3ba55586c3ee11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed33d2280826b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c8c2c55dcc680d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b044e488b27a9aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7c63b81d165941",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "155b36f16d255897",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8e6035b98fd991a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95a5cb560adca95f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "61d7ca1144630f5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34dde9340b6f727d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca2e4b8384f24190",
+    "type": "split",
+    "children": [
+      {
+        "id": "c669f008240acd15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a88f681b147d238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Plan"
+            }
+          },
+          {
+            "id": "e65db3e21611e046",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plan"
+            }
+          },
+          {
+            "id": "226869a91d596c3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa6d37fd1cbbf917",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "32f581a308c0f6fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "95a5cb560adca95f",
+  "lastOpenFiles": [
+    "ObsidianVault/Approvals/Approved_Plan_2026-03-04_17-18-22.md",
+    "ObsidianVault/Approvals/Approved_Plan_2026-03-04_17-17-00.md",
+    "ai_employee.log",
+    "ObsidianVault/Approvals/Approved_Plan_2026-03-04_16-55-21.md",
+    "ObsidianVault/Approvals/LinkedIn_Post_2026-03-04_16-53-34.md",
+    "ObsidianVault/Approvals/Approved_Plan_2026-03-04_16-53-04.md",
+    "mcp/__pycache__/action_server.cpython-313.pyc",
+    "utils/__pycache__/__init__.cpython-313.pyc",
+    "watchers/__pycache__/__init__.cpython-313.pyc",
+    "skills/__pycache__/__init__.cpython-313.pyc",
+    "mcp/__pycache__/__init__.cpython-313.pyc",
+    "mcp/__pycache__",
+    "watchers/__init__.py",
+    "skills/__init__.py",
+    "utils/__init__.py",
+    "ObsidianVault/Plans/Rejected_Plan_2026-03-04_15-33-50.md",
+    "ObsidianVault/Approvals/Approved_Plan_2026-03-04_15-32-56.md",
+    "ObsidianVault/APPROVED_Plan.md",
+    "APPROVED_Plan.md",
+    "Welcome.md",
+    "README.md",
+    "Plan.md",
+    "Dashboard.md",
+    "Company_Handbook.md",
+    "Plans/processing_plan.md"
+  ]
+}
